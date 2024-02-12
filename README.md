@@ -1,4 +1,4 @@
-# Django-WebApp    
+# File-Sharing Web App with Python/Django  
 <h4>Part 1:</h4>
 <ol>
     <li>Create a web-app where a user can login.</li>
