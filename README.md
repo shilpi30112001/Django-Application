@@ -1,19 +1,9 @@
-# Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
-
-
-This project was done by me as a assignment for an internship.
-
-<h2>Assignment Problem Statement:</h2>
-
+# Django-WebApp    
 <h4>Part 1:</h4>
 <ol>
     <li>Create a web-app where a user can login.</li>
     <li>User can upload files.</li>
     <li>User can view his/her uploaded files.</li>
-</ol>
-
-<h4>Part 2:</h4>
-<ol>
      <li>User can search and view profile of other users.</li>
      <li>They can share their uploaded files with any of those users.</li>
      <li>Users can see the shared files by other users also in uploaded files.</li>
@@ -40,10 +30,7 @@ This project was done by me as a assignment for an internship.
     <li>django-crispy-forms</li>
     <li>Pillow</li>
 </ul>
-  
-<h2>Note :</h2>
 
-<b>The Secret_Key required for the execution and debugging of project is not removed from the project code. So you can use the project as your college mini-project or by using the project code you can build your own project.</b>
 
 <h2>Usage :</h2>
 
@@ -56,7 +43,6 @@ This project was done by me as a assignment for an internship.
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
 # Working:
-[![Watch the video](https://img.youtube.com/vi/qIK-vfTig6c/0.jpg)](https://youtu.be/qIK-vfTig6c)
 
 # Screenshots : 
 <img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_36.png" height="400" width="800">
